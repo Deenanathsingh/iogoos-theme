@@ -1,3 +1,4 @@
+<?php // Template Name: homepage ?>
 <html>
 
 <head>
@@ -478,132 +479,88 @@
                     <li>
                         <span class="drp-wn"><a href="#">Website Development Services</a> <i
                                 class='fa fa-angle-right'></i></span>
-
                         <ul class="inner-dropdown active">
                             <span>Website Development Services</span>
                             <div class="row">
                                 <div class="col-lg-4">
-
                                     <ul class="inner-dropdown-child">
-
                                         <li><a href="https://www.iogoos.com/php-website-development-services-india/"><span>PHP
                                                     Website Development Services</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/cakephp-development-services/"><span>CakePHP
                                                     Website Development Services</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/cms-development-service/"><span>CMS
                                                     Devlopment Service</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/wordpress-website-development/"><span>Wordpress
                                                     Website Development</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/drupal-website-development/"><span>Drupal
                                                     Website Development</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/angular-js-development-services/"><span>Angular
                                                     JS Website Development</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/joomla-development-service/"><span>Joomla
                                                     Website Development</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/laravel-development-services/"><span>Laravel
                                                     Website Development</span></a></li>
                                     </ul>
-
-
-
                                 </div>
                                 <div class="col-lg-4">
                                     <ul class="inner-dropdown-child">
                                         <li><a href="https://www.iogoos.com/laravel-development-services/"><span>Laravel
                                                     Website Development</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/real-estate-website-design/"><span>Real
                                                     Estate Website Design</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/shopify-development-services/"><span>Shopify
                                                     Development Services</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/hospital-management-software/"><span>Hospital
                                                     Management Software</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/hubspot-development-service/"><span>Hubspot
                                                     Development Service</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/ecommerce-development-service/"><span>Ecommerce
                                                     Development Service</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/magento-development-services/"><span>Magento
                                                     Development Service</span></a></li>
-
                                     </ul>
                                 </div>
                                 <div class="col-lg-4">
                                     <h5>Featured</h5>
                                     <ul class="nav-list">
-
                                         <li>
-
                                             <a href="https://www.iogoos.com/website-development-services">
-
                                                 Website Development Service
-
                                                 <p>IOGOOS Solution is an award-winning website development company with
                                                     a highly skilled web developers team that helping customer-oriented
                                                     new frontiers by delivering fully functional, user-friendly business
                                                     value web app, and website development services.</p>
-
                                             </a>
-
                                         </li>
-
                                         <li>
-
                                             <a href="https://www.iogoos.com/cms-development-service/">
-
                                                 CMS Development Services
-
                                                 <p>IOGOOS Solution offers you a complete CMS services to develop a
                                                     unique content management system to manage your content, business
                                                     data and information, theme design, and custom modules creation,
                                                     ensuring smooth function with automation.</p>
-
                                             </a>
-
                                         </li>
-
                                     </ul>
-
                                 </div>
                             </div>
                             <div classs="row">
                                 <div class="phone_div">
-
                                     <div class="phone___no">
-
                                         <span><img
                                                 src="https://www.iogoos.com/wp-content/themes/iogoos/img/usa_flag.webp"
                                                 alt="img"> (+1) 315 215 0919</span>
-
                                     </div>
-
                                     <div class="phone___no">
-
                                         <span><img
                                                 src="https://www.iogoos.com/wp-content/themes/iogoos/img/south-africa_flag.webp"
                                                 alt="img"> (+61) 466 755 784</span>
-
                                     </div>
-
                                     <div class="phone___no">
-
                                         <span><img
                                                 src="https://www.iogoos.com/wp-content/themes/iogoos/img/india_flag.webp"
                                                 alt="img"> (+91) 954 000 7839</span>
-
                                     </div>
-
                                 </div>
                             </div>
                         </ul>
@@ -637,82 +594,52 @@
                                 <div class="col-lg-4">
                                     <h5>FEATURED</h5>
                                     <ul class="nav-list">
-
                                         <li>
-
                                             <a class="detailed-link"
                                                 href="https://www.iogoos.com/mobile-app-development-services">
-
                                                 Mobile App Development Services
-
                                                 <p>we are here to improve business performance by our creative website
                                                     design, mobile app development,and digital marketing services. we
                                                     provide services for all enterprises in making critical business
                                                     decisions.</p>
-
                                             </a>
-
                                         </li>
-
                                         <li>
-
                                             <a class="detailed-link"
                                                 href="https://www.iogoos.com/android-apps-development/">
-
                                                 Android App Development
-
                                                 <p>IOGOOS Solution is a certified Android App Development Company, which
                                                     ensures to provide affordable Android App Development services.</p>
-
                                             </a>
-
                                         </li>
-
                                         <li>
-
                                             <a class="detailed-link"
                                                 href="https://www.iogoos.com/ios-apps-development/">
-
                                                 IOS Apps Development
-
                                                 <p>IOGOOS Solution is certified IOS apps development company and has
                                                     years of experience in iPhone app development field.</p>
-
                                             </a>
-
                                         </li>
-
                                     </ul>
                                 </div>
-
                             </div>
                             <div classs="row">
                                 <div class="phone_div">
-
                                     <div class="phone___no">
-
                                         <span><img
                                                 src="https://www.iogoos.com/wp-content/themes/iogoos/img/usa_flag.webp"
                                                 alt="img"> (+1) 315 215 0919</span>
-
                                     </div>
-
                                     <div class="phone___no">
-
                                         <span><img
                                                 src="https://www.iogoos.com/wp-content/themes/iogoos/img/south-africa_flag.webp"
                                                 alt="img"> (+61) 466 755 784</span>
-
                                     </div>
-
                                     <div class="phone___no">
-
                                         <span><img
                                                 src="https://www.iogoos.com/wp-content/themes/iogoos/img/india_flag.webp"
                                                 alt="img"> (+91) 954 000 7839</span>
-
                                     </div>
-
                                 </div>
                             </div>
                         </ul>
@@ -746,80 +673,51 @@
                                 <div class="col-lg-4">
                                     <h5>FEATURED</h5>
                                     <ul class="nav-list">
-
                                         <li>
-
                                             <a class="detailed-link"
                                                 href="https://www.iogoos.com/digital-marketing-services">
-
                                                 Digital Marketing Services
-
                                                 <p>Most of the business personalities and promoting leaders like online
                                                     presence is obligatory for attaining business success today.</p>
-
                                             </a>
-
                                         </li>
-
                                         <li>
-
                                             <a class="detailed-link" href="https://www.iogoos.com/seo-services/">
-
                                                 Search Engine Optimization
-
                                                 <p>We help our clients increase their organic traffic by an average of
                                                     135% &amp; 90% Retention Rate in only six months.</p>
-
                                             </a>
-
                                         </li>
-
                                         <li>
-
                                             <a class="detailed-link"
                                                 href="https://www.iogoos.com/social-media-marketing-services/">
-
                                                 Social Media Marketing
-
                                                 <p>IOGOOS Solution provides high-value Social Media Optimizations
                                                     services which increase your social position by showing up to right
                                                     consumers.</p>
-
                                             </a>
-
                                         </li>
-
                                     </ul>
                                 </div>
-
                             </div>
                             <div classs="row">
                                 <div class="phone_div">
-
                                     <div class="phone___no">
-
                                         <span><img
                                                 src="https://www.iogoos.com/wp-content/themes/iogoos/img/usa_flag.webp"
                                                 alt="img"> (+1) 315 215 0919</span>
-
                                     </div>
-
                                     <div class="phone___no">
 
                                         <span><img
                                                 src="https://www.iogoos.com/wp-content/themes/iogoos/img/south-africa_flag.webp"
                                                 alt="img"> (+61) 466 755 784</span>
-
                                     </div>
-
                                     <div class="phone___no">
-
                                         <span><img
                                                 src="https://www.iogoos.com/wp-content/themes/iogoos/img/india_flag.webp"
                                                 alt="img"> (+91) 954 000 7839</span>
-
                                     </div>
-
                                 </div>
                             </div>
                         </ul>
@@ -832,42 +730,26 @@
                             <div class="row">
                                 <div class="col-lg-4">
                                     <ul class="inner-dropdown-child">
-
                                         <li>
-
                                             <a href="https://www.iogoos.com/magento-development-services/"><span>Magento
                                                     Development Service</span></a>
-
                                         </li>
-
                                         <li>
-
                                             <a href="https://www.iogoos.com/shopify-development-services/"><span>Shopify
                                                     Development Services</span></a>
-
                                         </li>
-
                                     </ul>
                                 </div>
                                 <div class="col-lg-4">
                                     <ul class="inner-dropdown-child">
-
-
-
                                         <li>
-
                                             <a href="https://www.iogoos.com/ecommerce-development-service/"><span>Opencart
                                                     Development Services</span></a>
-
                                         </li>
                                         <li>
-
                                             <a href="https://www.iogoos.com/ecommerce-development-service/"><span>Woocommerce
                                                     Development Services</span></a>
-
                                         </li>
-
-
                                     </ul>
                                 </div>
                                 <div class="col-lg-4">
@@ -877,37 +759,25 @@
                                                     Development Services</span></a>
                                         </li>
                                     </ul>
-
                                 </div>
-
                             </div>
                             <div classs="row">
                                 <div class="phone_div">
-
                                     <div class="phone___no">
-
                                         <span><img
                                                 src="https://www.iogoos.com/wp-content/themes/iogoos/img/usa_flag.webp"
                                                 alt="img"> (+1) 315 215 0919</span>
-
                                     </div>
-
                                     <div class="phone___no">
-
                                         <span><img
                                                 src="https://www.iogoos.com/wp-content/themes/iogoos/img/south-africa_flag.webp"
                                                 alt="img"> (+61) 466 755 784</span>
-
                                     </div>
-
                                     <div class="phone___no">
-
                                         <span><img
                                                 src="https://www.iogoos.com/wp-content/themes/iogoos/img/india_flag.webp"
                                                 alt="img"> (+91) 954 000 7839</span>
-
                                     </div>
-
                                 </div>
                             </div>
                         </ul>
@@ -919,89 +789,52 @@
                             <span>WEBSITE DESIGN SERVICES</span>
                             <div class="row">
                                 <div class="col-lg-4">
-
                                     <ul class="inner-dropdown-child">
                                         <li>
-
                                             <a href="https://www.iogoos.com/logo-design/"><span>Logo Design</span></a>
-
                                         </li>
-
                                         <li>
-
                                             <a href="https://www.iogoos.com/psd-to-xhtml/"><span>PSD To XHTML</span></a>
-
                                         </li>
-
-
-
                                     </ul>
-
                                 </div>
                                 <div class="col-lg-4">
                                     <ul class="inner-dropdown-child">
-
-
-
                                         <li>
-
                                             <a href="https://www.iogoos.com/website-design-services/"><span>Website
                                                     Designing Services India</span></a>
-
                                         </li>
-
                                         <li>
-
                                             <a href="https://www.iogoos.com/faqs/"><span>FAQ's</span></a>
-
                                         </li>
-
-
-
                                     </ul>
                                 </div>
                                 <div class="col-lg-4">
                                     <ul class="inner-dropdown-child">
-
-
                                         <li>
-
                                             <a href="https://www.iogoos.com/virtual-employee-services/"><span>Virtual
                                                     Employee Services</span></a>
-
                                         </li>
-
                                     </ul>
                                 </div>
-
                             </div>
                             <div classs="row">
                                 <div class="phone_div">
-
                                     <div class="phone___no">
-
                                         <span><img
                                                 src="https://www.iogoos.com/wp-content/themes/iogoos/img/usa_flag.webp"
                                                 alt="img"> (+1) 315 215 0919</span>
-
                                     </div>
-
                                     <div class="phone___no">
-
                                         <span><img
                                                 src="https://www.iogoos.com/wp-content/themes/iogoos/img/south-africa_flag.webp"
                                                 alt="img"> (+61) 466 755 784</span>
-
                                     </div>
-
                                     <div class="phone___no">
-
                                         <span><img
                                                 src="https://www.iogoos.com/wp-content/themes/iogoos/img/india_flag.webp"
                                                 alt="img"> (+91) 954 000 7839</span>
-
                                     </div>
-
                                 </div>
                             </div>
                         </ul>
@@ -1013,8 +846,6 @@
                             <span>CMS Development Services</span>
                             <div class="row">
                                 <div class="col-lg-4">
-
-
                                     <ul class="inner-dropdown-child">
                                         <li>
                                             <a href="https://www.iogoos.com/wordpress-development-services/"><span>Wordpress
@@ -1030,10 +861,6 @@
                                                     Development Services</span></a>
                                         </li>
                                     </ul>
-
-
-
-
                                 </div>
                                 <div class="col-lg-4">
 
@@ -1053,37 +880,25 @@
                                                     Development Services</span></a>
                                         </li>
                                     </ul>
-
                                 </div>
-
                             </div>
                             <div classs="row">
                                 <div class="phone_div">
-
                                     <div class="phone___no">
-
                                         <span><img
                                                 src="https://www.iogoos.com/wp-content/themes/iogoos/img/usa_flag.webp"
                                                 alt="img"> (+1) 315 215 0919</span>
-
                                     </div>
-
                                     <div class="phone___no">
-
                                         <span><img
                                                 src="https://www.iogoos.com/wp-content/themes/iogoos/img/south-africa_flag.webp"
                                                 alt="img"> (+61) 466 755 784</span>
-
                                     </div>
-
                                     <div class="phone___no">
-
                                         <span><img
                                                 src="https://www.iogoos.com/wp-content/themes/iogoos/img/india_flag.webp"
                                                 alt="img"> (+91) 954 000 7839</span>
-
                                     </div>
-
                                 </div>
                             </div>
                         </ul>
@@ -1095,59 +910,42 @@
                             <span>WEBSITE DEVELOPMENT SERVICES</span>
                             <div class="row">
                                 <div class="col-lg-4">
-
                                     <ul class="inner-dropdown-child">
-
                                         <li>
                                             <a href="https://www.iogoos.com/ecommerce-development-service/"><span>Angular
                                                     JS Development</span></a>
                                         </li>
-
                                         <li>
                                             <a href="https://www.iogoos.com/ecommerce-development-service/"><span>React
                                                     JS Development</span></a>
-
                                     </ul>
                                 </div>
                                 <div class="col-lg-4">
                                     <ul class="inner-dropdown-child">
-
-
                                         <li>
                                             <a href="https://www.iogoos.com/ecommerce-development-service/"><span>Vue JS
                                                     Development Services</span></a>
                                         </li>
                                     </ul>
                                 </div>
-
                             </div>
                             <div classs="row">
                                 <div class="phone_div">
-
                                     <div class="phone___no">
-
                                         <span><img
                                                 src="https://www.iogoos.com/wp-content/themes/iogoos/img/usa_flag.webp"
                                                 alt="img"> (+1) 315 215 0919</span>
-
                                     </div>
-
                                     <div class="phone___no">
-
                                         <span><img
                                                 src="https://www.iogoos.com/wp-content/themes/iogoos/img/south-africa_flag.webp"
                                                 alt="img"> (+61) 466 755 784</span>
-
                                     </div>
-
                                     <div class="phone___no">
-
                                         <span><img
                                                 src="https://www.iogoos.com/wp-content/themes/iogoos/img/india_flag.webp"
                                                 alt="img"> (+91) 954 000 7839</span>
-
                                     </div>
-
                                 </div>
                             </div>
                         </ul>
@@ -1159,104 +957,67 @@
                             <div class="row">
                                 <div class="col-lg-4">
                                     <ul class="inner-dropdown-child">
-
                                         <li><a href="https://www.iogoos.com/php-website-development-company/"><span>PHP
                                                     Website Development Services</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/cakephp-development-services/"><span>CakePHP
                                                     Development Services</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/laravel-development-services/"><span>Laravel
                                                     Development Services<span></span></span></a></li>
-
-
                                         <li><a href="https://www.iogoos.com/android-apps-development/"><span>Android App
                                                     Development</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/windows-apps-development/"><span>Windows App
                                                     Development</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/ios-apps-development/"><span>IOS App
                                                     Development</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/native-apps-development/"><span>Native Apps
                                                     Development</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/phonegap-apps-development/"><span>PhoneGap
                                                     Apps Development</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/ionic-apps-development/"><span>Ionic Apps
                                                     Development</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/pay-per-click-service/"><span>Pay Per
                                                     Click</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/content-marketing-services/"><span>Content
                                                     Marketing</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/social-media-marketing-services/"><span>Social
                                                     Media Marketing</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/paid-media/"><span>Paid Media
                                                     Advertising</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/seo-services/"><span>Search Engine
                                                     Optimization</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/seo-pricing/"><span>SEO Pricing</span></a>
                                         </li>
-
                                     </ul>
-
                                 </div>
                                 <div class="col-lg-4">
                                     <ul class="inner-dropdown-child">
-
-
-
                                         <li><a href="https://www.iogoos.com/seo-pricing/"><span>SEO Pricing</span></a>
                                         </li>
-
                                         <li><a href="https://www.iogoos.com/magento-development-services/"><span>Magento
                                                     Development Service</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/shopify-development-services/"><span>Shopify
                                                     Development Services</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/ecommerce-development-service/"><span>Opencart
                                                     Development Services</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/ecommerce-development-service/"><span>Woocommerce
                                                     Development Services</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/ecommerce-development-service/"><span>Bigcommerce
                                                     Development Services</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/logo-design/"><span>Logo Design</span></a>
                                         </li>
-
                                         <li><a href="https://www.iogoos.com/psd-to-xhtml/"><span>PSD To HTML5</span></a>
                                         </li>
-
                                         <li><a href="https://www.iogoos.com/website-design-services/"><span>Website
                                                     Designing Services</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/faqs/"><span>India FAQ's</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/virtual-employee-services/"><span>Virtual
                                                     Employee Services</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/ecommerce-development-service/"><span>Angular
                                                     JS Development Services</span></a></li>
-
-
-
                                         <li><a href="https://www.iogoos.com/wordpress-development-services/"><span>Wordpress
                                                     Website Development</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/drupal-website-development/"><span>Drupal
                                                     Website Development</span></a></li>
-
                                         <li><a href="https://www.iogoos.com/joomla-development-service/"><span>Joomla
                                                     Development Services</span></a></li>
                                     </ul>
@@ -1389,7 +1150,6 @@
                     <div id="menu1" class="container tab-pane fade"><br>
                         <div class="container">
                             <div class="row">
-
                                 <div class="col-lg-6">
                                     <div class="inner">
                                         <h1><span>FUTURE-READY</span> MOBILE APP DEVELOPMENT COMPANY</h1>
@@ -1450,7 +1210,6 @@
                     <div id="menu2" class="container tab-pane fade"><br>
                         <div class="container">
                             <div class="row">
-
                                 <div class="col-lg-6">
                                     <div class="inner">
                                         <h1><span>PERFORMANCE-DRIVEN</span> DIGITAL MARKETING SERVICES</h1>
