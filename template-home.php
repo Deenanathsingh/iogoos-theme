@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="sass/style.css">
+    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>sass/style.css">
 </head>
 
 <body>
@@ -1281,7 +1281,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <!-- <script src="https://www.iogoos.com/wp-content/themes/iogoos/js/jquery.min.js"></script> -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="js/main.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>js/main.js"></script>
 
 </body>
 
