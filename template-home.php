@@ -1416,7 +1416,7 @@
                         <h3>"The Team Is Details Oriented And Effective Worker."</h3>
                         <div class="clutch-cont">
                             <div class="inner-img">
-                                <a href="https://www.google.com/search?q=iogoos+google+review&amp;oq=iogoos+google+&amp;aqs=chrome.0.69i59j69i57j69i59j69i60.6159j0j7&amp;sourceid=chrome&amp;ie=UTF-8#lrd=0x390d04da527f94cb:0x91e16b8de14c90d8,1,,,"
+                                <a href="https://clutch.co/profile/iogoos-solution?utm_source=widget&utm_medium=2&utm_campaign=widget&utm_content=logo"
                                     target="_blank">
                                     <img loading="lazy" class="lazy entered loaded animate"
                                         src="<?php echo get_template_directory_uri(); ?>/image/clutch.webp"
