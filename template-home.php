@@ -1133,7 +1133,7 @@
 
                                     <video autoplay="autoplay" muted="muted" loop="loop">
                                         <source
-                                            src="https://www.iogoos.com/wp-content/themes/iogoos/img/digital_ruma.webm">
+                                            src="<?php echo get_template_directory_uri(); ?>/image/digital_ruma.webm">
                                     </video>
                                     <div class="inner-img">
                                         <img class="lazy pt18 desk_call chat-btn entered loaded animate"
@@ -1189,8 +1189,7 @@
                                     <video class="lazy entered loaded" autoplay="autoplay" muted="muted" loop="loop"
                                         data-ll-status="loaded">
                                         <source class="lazy"
-                                            src="https://www.iogoos.com/wp-content/themes/iogoos/img/app-devlopement_w_.webm"
-                                            data-src="https://www.iogoos.com/wp-content/themes/iogoos/img/app-devlopement_w_.webm"
+                                            src="<?php echo get_template_directory_uri(); ?>/image/app-devlopement_w_.webm"
                                             type="video/mp4">
                                     </video>
                                     <div class="inner-img">
@@ -1250,8 +1249,7 @@
                                     <video class="lazy entered loaded" autoplay="autoplay" muted="muted" loop="loop"
                                         data-ll-status="loaded">
                                         <source class="lazy"
-                                            src="https://www.iogoos.com/wp-content/themes/iogoos/img/web-design-w_.webm?raw=1"
-                                            data-src="https://www.iogoos.com/wp-content/themes/iogoos/img/web-design-w_.webm?raw=1"
+                                            src="<?php echo get_template_directory_uri(); ?>/image/web-design-w_.webm"
                                             type="video/mp4">
                                     </video>
                                     <div class="inner-img">
