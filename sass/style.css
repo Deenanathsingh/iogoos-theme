@@ -461,6 +461,7 @@ img {
 }
 .front_tab .inner_tab .inner ul li {
   padding-left: 20px;
+  list-style-type: circle;
   position: relative;
 }
 .front_tab .inner_tab .inner form {
