@@ -1298,10 +1298,12 @@
             <div class="row">
                 <div class="col-lg-4">
                     <div class="inner">
-                        <img class="img1" src="https://www.iogoos.com/wp-content/themes/iogoos/img/aws.webp"
+                        <img class="img1" width="235" height="102"
+                            src="https://www.iogoos.com/wp-content/themes/iogoos/img/aws.webp"
                             data-src="https://www.iogoos.com/wp-content/themes/iogoos/img/aws.webp"
                             alt="Shopify development company">
-                        <img class="img2" data-src="https://www.iogoos.com/wp-content/themes/iogoos/img/sap.webp"
+                        <img class="img2" width="235" height="102"
+                            data-src="https://www.iogoos.com/wp-content/themes/iogoos/img/sap.webp"
                             alt="Shopify Development Services"
                             src="https://www.iogoos.com/wp-content/themes/iogoos/img/sap.webp">
                     </div>
@@ -1319,16 +1321,19 @@
                     </div>
                 </div>
                 <div class="col-lg-4">
-                    <img class="img3" src="https://www.iogoos.com/wp-content/themes/iogoos/img/google_.webp"
+                    <img class="img3" width="175" height="206"
+                        src="https://www.iogoos.com/wp-content/themes/iogoos/img/google_.webp"
                         data-src="https://www.iogoos.com/wp-content/themes/iogoos/img/google_.webp"
                         alt="Google Developers- Certified Agency">
                 </div>
                 <div class="col-lg-3">
                     <div class="inner">
-                        <img class="img4" src="https://www.iogoos.com/wp-content/themes/iogoos/img/col.webp"
+                        <img class="img4" width="306" height="92"
+                            src="https://www.iogoos.com/wp-content/themes/iogoos/img/col.webp"
                             data-src="https://www.iogoos.com/wp-content/themes/iogoos/img/col.webp"
                             alt="Shopify development company">
-                        <img class="img5" data-src="https://www.iogoos.com/wp-content/themes/iogoos/img/mag.webp"
+                        <img class="img5" width="269" height="84"
+                            data-src="https://www.iogoos.com/wp-content/themes/iogoos/img/mag.webp"
                             alt="Shopify Development Services"
                             src="https://www.iogoos.com/wp-content/themes/iogoos/img/mag.webp">
                     </div>
@@ -1356,7 +1361,8 @@
                     </div>
                 </div>
                 <div class="col-lg-2">
-                    <img class="img6" src="https://www.iogoos.com/wp-content/themes/iogoos/img/cluthhs_.webp"
+                    <img class="img6" width="196" height="196"
+                        src="https://www.iogoos.com/wp-content/themes/iogoos/img/cluthhs_.webp"
                         data-src="https://www.iogoos.com/wp-content/themes/iogoos/img/cluthhs_.webp"
                         alt="Hire Certified Mobile App Developer">
                 </div>
