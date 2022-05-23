@@ -1,5 +1,7 @@
 <?php // Template Name: homepage ?>
 
+<?php get_header(); ?>
+
 <!--front_tab -->
 <div class="front_tab">
     <div class="container">
