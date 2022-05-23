@@ -11,8 +11,6 @@ function add_css()
 {
 	wp_register_style('style', get_template_directory_uri() . '/sass/style.css', false, '1.1', 'all');
 	wp_enqueue_style('style');
-
-/*	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/sass/style.css"> */
 }
 add_action( 'wp_enqueue_scripts', 'add_css');
 
