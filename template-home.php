@@ -1416,15 +1416,13 @@
                         <h3>"The Team Is Details Oriented And Effective Worker."</h3>
                         <div class="clutch-cont">
                             <div class="inner-img">
-                                <div class="right-img">
-                                    <script src="https://widget.clutch.co/static/js/widget.js"></script>
-                                    <div class="clutch-widget" data-url="https://widget.clutch.co" data-widget-type="2"
-                                        data-height="45" data-darkbg="1" data-clutchcompany-id="304998"><iframe
-                                            id="iframe-0.6996916957851431" width="100%"
-                                            src="https://widget.clutch.co/widgets/get/2/darkbg?ref_domain=www.iogoos.com&amp;uid=304998&amp;ref_path=/"
-                                            height="45px" style="border: none; display: block;"
-                                            title="recaptcha-setup2 Dark"></iframe></div>
-                                </div>
+                                <a href="https://www.google.com/search?q=iogoos+google+review&amp;oq=iogoos+google+&amp;aqs=chrome.0.69i59j69i57j69i59j69i60.6159j0j7&amp;sourceid=chrome&amp;ie=UTF-8#lrd=0x390d04da527f94cb:0x91e16b8de14c90d8,1,,,"
+                                    target="_blank">
+                                    <img loading="lazy" class="lazy entered loaded animate"
+                                        src="<?php echo get_template_directory_uri(); ?>/image/clutch.webp"
+                                        data-src="https://www.iogoos.com/wp-content/themes/iogoos/img/google-rev-img.webp"
+                                        width="578" height="170" alt="star rating" data-ll-status="loaded">
+                                </a>
                             </div>
                         </div>
                         <p>IOGOOS Solution managed to deliver the project in a timely manner. The team supported great
