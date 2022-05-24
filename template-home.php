@@ -310,7 +310,7 @@
 
 
 <!-- about -->
-<div class="about">
+<!--<div class="about">
     <div class="container">
         <div class="row">
             <div class="col-lg-7">
@@ -445,7 +445,7 @@
             </div>
         </div>
     </div>
-</div>
+</div>-->
 <!-- about -->
 
 
