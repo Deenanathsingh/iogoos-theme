@@ -636,34 +636,36 @@
         <div class="inner">
             <ul class="nav nav-pills flex-column" role="tablist">
                 <li class="nav-item">
-                    <a class="nav-link active" bs-toggle="pill" href="#health"><i class="fa fa-heartbeat"></i>
+                    <a class="nav-link active" date-bs-toggle="pill" href="#health"><i class="fa fa-heartbeat"></i>
                         Healthcare</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" bs-toggle="pill" href="#travel"><i class="fa fa-bus"></i> Travel & Tourism</a>
+                    <a class="nav-link" data-bs-toggle="pill" href="#travel"><i class="fa fa-bus"></i> Travel &
+                        Tourism</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" bs-toggle="pill" href="#banking"><i class="fa fa-bank"></i> Banking &
+                    <a class="nav-link" data-bs-toggle="pill" href="#banking"><i class="fa fa-bank"></i> Banking &
                         Finance</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" bs-toggle="pill" href="#logistic"><i class="fa fa-car"></i> Logistics &
+                    <a class="nav-link" data-bs-toggle="pill" href="#logistic"><i class="fa fa-car"></i> Logistics &
                         Transport</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" bs-toggle="pill" href="#retail"><i class="fa fa-plane"></i> Retail &
+                    <a class="nav-link" data-bs-toggle="pill" href="#retail"><i class="fa fa-plane"></i> Retail &
                         Ecommerce</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" bs-toggle="pill" href="#media"><i class="fa fa-camera-retro"></i> Media &
+                    <a class="nav-link" data-bs-toggle="pill" href="#media"><i class="fa fa-camera-retro"></i> Media &
                         Entertainment</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" bs-toggle="pill" href="#education"><i class="fa fa-graduation-cap"></i>
+                    <a class="nav-link" data-bs-toggle="pill" href="#education"><i class="fa fa-graduation-cap"></i>
                         Education & E-Learning</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" bs-toggle="pill" href="#product"><i class="fa fa-jsfiddle"></i> ISVs & Product
+                    <a class="nav-link" data-bs-toggle="pill" href="#product"><i class="fa fa-jsfiddle"></i> ISVs &
+                        Product
                         Firms</a>
                 </li>
 
