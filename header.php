@@ -9,6 +9,7 @@
  * @package iogoos_theme
  */
 
+ 
 ?>
 <!doctype html>
 <html <?php language_attributes(); ?>>
