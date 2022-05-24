@@ -644,9 +644,10 @@ a.animated-button svg g polyline {
 }
 .front_tab .inner_tab .inner ul {
   margin: 25px 0px;
+  padding-left: 20px;
 }
 .front_tab .inner_tab .inner ul li {
-  padding-left: 20px;
+  list-style-type: circle;
   position: relative;
 }
 .front_tab .inner_tab .inner form {
