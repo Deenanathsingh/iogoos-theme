@@ -17,12 +17,13 @@ $(document).ready(function() {
         $(document).find(".drp-wn").not(this).removeClass('show');
         return false;
     });
-});
-// number count for stats, using jQuery animate
 
+});
+// home page counter
 $('.counting').each(function() {
     var $this = $(this),
-        countTo = $this.attr('data-count');
+        countTo = $this.attr('count');
+
     $({
         countNum: $this.text()
     }).animate({
@@ -38,4 +39,37 @@ $('.counting').each(function() {
             //alert('finished');
         }
     });
+});
+// anout page Slick Slider
+jQuery(".slick-slider").slick({
+    slidesToShow: 3,
+    slidesToScroll: 1,
+    autoplay: true,
+    arrows: true,
+    responsive: [{
+        breakpoint: 1024,
+        settings: {
+            slidesToShow: 2,
+            slidesToScroll: 2,
+            adaptiveHeight: true,
+        },
+    }, {
+        breakpoint: 600,
+        settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1,
+        },
+    }, ],
+});
+
+
+// homepage client slider
+$('.thumb-nav').slick({
+    slidesToShow: 3,
+    slidesToScroll: 1,
+    infinite: true,
+    autoplay: true,
+    vertical: true,
+    arrows: false,
+    verticalSwiping: true,
 });
