@@ -10,13 +10,13 @@
                 <ul class="nav nav-pills" role="tablist">
 
                     <li class="nav-item">
-                        <a class="nav-link active" bs-toggle="pill" href="#web-design"> WEBSITE DESIGN</a>
+                        <a class="nav-link active" data-bs-toggle="pill" href="#web-design"> WEBSITE DESIGN</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" bs-toggle="pill" href="#mobile-app">MOBILE APP</a>
+                        <a class="nav-link" data-bs-toggle="pill" href="#mobile-app">MOBILE APP</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" bs-toggle="pill" href="#digital">DIGITAL MARKETING</a>
+                        <a class="nav-link" data-bs-toggle="pill" href="#digital">DIGITAL MARKETING</a>
                     </li>
 
                 </ul>
