@@ -711,6 +711,7 @@ a.animated-button svg g polyline {
 /******************* home_shopy_img ***********************/
 .home_shopy_img {
   overflow: hidden;
+  font-family: "Bebas Neue", cursive;
 }
 .home_shopy_img .img3 {
   width: 175px;
