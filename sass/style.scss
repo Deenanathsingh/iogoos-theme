@@ -21,8 +21,9 @@ body {
     padding: 0px;
 }
 
+$base-color: #1b355e;
 a {
-    color: #1b355e;
+    color: $base-color;
     transition: all 0.3s ease 0s;
     text-decoration: none !important;
     outline: none !important;
@@ -34,7 +35,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: #1b355e;
+    color: $base-color;
 }
 
 p {
