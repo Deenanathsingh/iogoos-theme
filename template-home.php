@@ -369,6 +369,18 @@
                                 </div>
                             </li>
                         </ul>
+                        <a href="https://www.iogoos.com/our-services/"
+                        class="animated-button link-to arrow-scroll--bottom arrow-scroll showing show" target="_blank">
+                        <svg>
+                            <g>
+                                <line x2="227.62" y1="31.28" y2="31.28"></line>
+                                <polyline points="222.62 25.78 228.12 31.28 222.62 36.78"></polyline>
+                                <circle cx="224.67" cy="30.94" r="30.5"
+                                    transform="rotate(180 224.67 30.94) scale(1, -1) translate(0, -61)"></circle>
+                            </g>
+                        </svg>
+                        <span class="font">View All Services</span>
+                    </a>
                     </div>
                     <div class="right">
                         <div class="figure-box">
