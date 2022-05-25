@@ -760,7 +760,7 @@
 <!-- serve -->
 
 <!-- team_slider -->
-<!--<div class="team_slider my-5 py-5">
+<div class="team_slider my-5 py-5">
     <div class="container">
         <div class="heading">
             <h2>We're shaping the future of business</h2>
@@ -828,7 +828,7 @@
             </div>
         </div>
     </div>
-</div>-->
+</div>
 <!-- team_slider -->
 
 
