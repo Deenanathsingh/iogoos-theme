@@ -857,10 +857,9 @@ a.animated-button svg g polyline {
         .left {
             background-color: #ffffff;
             max-width: 370px;
-            padding: 45px 0 20px;
             border-radius: 10px;
-            width: 100%;
-            margin-top: 50px;
+            width: 50%;
+            box-shadow: 0 0 50px 0 rgb(0 0 0 / 10%);
             .thumb-nav {
                 position: relative;
                 h2 {
