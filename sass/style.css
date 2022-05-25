@@ -968,6 +968,7 @@ a.animated-button svg g polyline {
 
 .about .inner1 .left .thumb-nav {
   position: relative;
+  overflow: hidden;
 }
 
 .about .inner1 .left .thumb-nav h2 {
@@ -981,8 +982,14 @@ a.animated-button svg g polyline {
   font-style: italic;
 }
 
+.about .inner1 .left .thumb-nav .slick-slide {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 .about .inner1 .left .thumb-nav .figure-box {
-  position: relative;
+  margin-right: 10px;
 }
 
 .about .inner1 .left .thumb-nav img {
@@ -994,11 +1001,18 @@ a.animated-button svg g polyline {
 }
 
 .about .inner1 .left .thumb-nav .teacher-name {
-  position: relative;
+  margin-bottom: 0;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: 'Futura PT Demi';
+  line-height: 1.46;
 }
 
 .about .inner1 .left .thumb-nav .subject {
-  position: relative;
+  color: #a7a6a6;
+  font-size: 15px;
+  margin-bottom: 0;
+  line-height: 1.2;
 }
 
 .about .inner1 .right {

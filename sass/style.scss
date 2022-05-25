@@ -862,6 +862,7 @@ a.animated-button svg g polyline {
             box-shadow: 0 0 5px rgba(0, 0, 0, .25);
             .thumb-nav {
                 position: relative;
+                overflow: hidden;
                 h2 {
                     font-size: 20px;
                     font-weight: 600;
@@ -871,8 +872,11 @@ a.animated-button svg g polyline {
                     color: #1b355e;
                     font-style: italic;
                 }
+                .slick-slide {
+                    display: flex;
+                }
                 .figure-box {
-                    position: relative;
+                    margin-right: 10px;
                 }
                 img {
                     position: relative;
@@ -881,10 +885,17 @@ a.animated-button svg g polyline {
                     position: relative;
                 }
                 .teacher-name {
-                    position: relative;
+                    margin-bottom: 0;
+                    font-size: 20px;
+                    font-weight: 500;
+                    font-family: 'Futura PT Demi';
+                    line-height: 1.46;
                 }
                 .subject {
-                    position: relative;
+                    color: #a7a6a6;
+                    font-size: 15px;
+                    margin-bottom: 0;
+                    line-height: 1.2;
                 }
             }
         }
