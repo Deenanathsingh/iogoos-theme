@@ -966,20 +966,20 @@ a.animated-button svg g polyline {
           box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
 }
 
-.about .inner1 .left .thumb-nav {
-  position: relative;
-  overflow: hidden;
-}
-
-.about .inner1 .left .thumb-nav h2 {
+.about .inner1 .left h2 {
   font-size: 20px;
   font-weight: 600;
   margin-bottom: 25px;
 }
 
-.about .inner1 .left .thumb-nav span {
+.about .inner1 .left span {
   color: #1b355e;
   font-style: italic;
+}
+
+.about .inner1 .left .thumb-nav {
+  position: relative;
+  overflow: hidden;
 }
 
 .about .inner1 .left .thumb-nav .slick-slide {
