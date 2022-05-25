@@ -966,6 +966,15 @@ a.animated-button svg g polyline {
           box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
 }
 
+.about .inner1 .left a.animated-button {
+  margin-left: 30px;
+  margin-bottom: 15px;
+}
+
+.about .inner1 .left a.animated-button svg {
+  left: -85px;
+}
+
 .about .inner1 .left h2 {
   font-size: 20px;
   font-weight: 600;
