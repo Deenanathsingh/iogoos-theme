@@ -379,7 +379,7 @@
                                     transform="rotate(180 224.67 30.94) scale(1, -1) translate(0, -61)"></circle>
                             </g>
                         </svg>
-                        <span class="font">View All Services</span>
+                        <span class="font">SEE MORE</span>
                     </a>
                     </div>
                     <div class="right">
@@ -451,7 +451,7 @@
                                     transform="rotate(180 224.67 30.94) scale(1, -1) translate(0, -61)"></circle>
                             </g>
                         </svg>
-                        <span class="font">View All Services</span>
+                        <span class="font">READ MORE</span>
                     </a>
                 </div>
             </div>
