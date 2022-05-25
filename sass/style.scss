@@ -854,12 +854,13 @@ a.animated-button svg g polyline {
     position: relative;
     .inner1 {
         position: relative;
-        display: flex;
+        float: left;
         .left {
             background-color: #ffffff;
             max-width: 370px;
             border-radius: 10px;
-            width: 50%;
+            width: 45%;
+            float: left;
             box-shadow: 0 0 5px rgba(0, 0, 0, .25);
             a.animated-button {
                 margin-left: 30px;
@@ -917,7 +918,10 @@ a.animated-button svg g polyline {
             }
         }
         .right {
-            width: 50%;
+            float: left;
+            width: 45%;
+            margin-top: 70px;
+            box-shadow: 0 0 5px rgb(0 0 0 / 25%);
             video {
                 width: 100%;
             }
@@ -929,6 +933,18 @@ a.animated-button svg g polyline {
             }
             a {
                 color: #000;
+                span {
+                    color: #ffffff;
+                    margin-right: 10px;
+                    background-color: #1b355e;
+                    width: 20px;
+                    height: 20px;
+                    line-height: 20px;
+                    display: inline-block;
+                    text-align: center;
+                    border-radius: 50%;
+                    font-size: 13px;
+                }
             }
         }
     }
