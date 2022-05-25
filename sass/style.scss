@@ -869,17 +869,25 @@ a.animated-button svg g polyline {
                     margin-bottom: 25px;
                 }
                 span {
-                    color: #1b355e;
+                    color: $base-color;
                     font-style: italic;
                 }
                 .slick-slide {
+                    padding-left: 30px;
+                    padding-right: 30px;
                     display: flex;
+                    -webkit-box-align: center;
+                    align-items: center;
+                    margin-bottom: 0px;
+                    padding-bottom: 12px;
+                    border-bottom: 1px solid #f3f3f3;
+                    margin-top: 12px;
                 }
                 .figure-box {
                     margin-right: 10px;
                 }
                 img {
-                    position: relative;
+                    border-radius: 50%;
                 }
                 .content-box {
                     position: relative;
