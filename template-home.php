@@ -407,7 +407,7 @@
                                     Development</a></li>
                         </ul>
                     </div>
-                    <ul>
+                    <ul class="element_img">
                         <li><img class="lazy entered loaded"
                                 src="https://www.iogoos.com/wp-content/themes/iogoos/img/element27.webp"
                                 data-src="https://www.iogoos.com/wp-content/themes/iogoos/img/element27.webp"

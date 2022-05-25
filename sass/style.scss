@@ -854,6 +854,7 @@ a.animated-button svg g polyline {
     position: relative;
     .inner1 {
         position: relative;
+        display: flex;
         .left {
             background-color: #ffffff;
             max-width: 370px;
@@ -917,6 +918,19 @@ a.animated-button svg g polyline {
         }
         .right {
             display: none;
+            width: 50%;
+            video {
+                width: 100%;
+            }
+            ul {}
+            li {
+                margin: 15px 0px;
+                font-size: 17px;
+                font-weight: 500;
+            }
+            a {
+                color: #000;
+            }
         }
     }
     .inner2 {

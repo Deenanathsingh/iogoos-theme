@@ -955,6 +955,9 @@ a.animated-button svg g polyline {
 
 .about .inner1 {
   position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
 }
 
 .about .inner1 .left {
@@ -1036,6 +1039,21 @@ a.animated-button svg g polyline {
 
 .about .inner1 .right {
   display: none;
+  width: 50%;
+}
+
+.about .inner1 .right video {
+  width: 100%;
+}
+
+.about .inner1 .right li {
+  margin: 15px 0px;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.about .inner1 .right a {
+  color: #000;
 }
 
 .about .inner2 h2 {
